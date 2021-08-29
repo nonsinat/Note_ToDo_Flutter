@@ -119,6 +119,18 @@ class _AddNoteScreenState extends State<AddNoteScreen> {
                       value: _priority,
                     ),
                   ),
+                  Center(
+                    child: ElevatedButton(
+                      onPressed: () {},
+                      child: Text(btnText),
+                    ),
+                  ),
+                  Center(
+                    child: ElevatedButton(
+                      onPressed: () {},
+                      child: Text("Updat"),
+                    ),
+                  ),
                 ],
               ),
             ),
